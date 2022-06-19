@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Oficialia
+</name>
+</assembly>
+<members>
+<member name="T:Oficialia.OFICIALIADataSet.SeguridadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oficialia.OFICIALIADataSet.SolicitudesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oficialia.OFICIALIADataSet.SeguridadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oficialia.OFICIALIADataSet.SolicitudesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oficialia.OFICIALIADataSet.SeguridadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oficialia.OFICIALIADataSet.SolicitudesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oficialia.OFICIALIADataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Oficialia.OFICIALIADataSetTableAdapters.SeguridadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oficialia.OFICIALIADataSetTableAdapters.SolicitudesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Oficialia.OFICIALIADataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Oficialia.OFICIALIADataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Oficialia.OFICIALIADataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Oficialia.OFICIALIADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Oficialia.OFICIALIADataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Oficialia.OFICIALIADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Oficialia.OFICIALIADataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Oficialia.OFICIALIADataSetTableAdapters.TableAdapterManager.UpdateAll(Oficialia.OFICIALIADataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Oficialia.OFICIALIADataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Oficialia.OFICIALIADataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Oficialia.OFICIALIADataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Oficialia.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Oficialia.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="P:Oficialia.My.Resources.Resources._100___catracho">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Oficialia.My.Resources.Resources._51ysp_1252567075832557045_gallery_107329_657">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Oficialia.My.Resources.Resources._9520227_themis_diosa_mitologica_simbolo_de_la_justicia_ciega_y_explotacion_equilibrio_vacia_en_una_mano_y_la">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Oficialia.My.Resources.Resources.encabezado">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Oficialia.My.Resources.Resources.rnplogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Oficialia.My.Resources.Resources.Vista__251_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Oficialia.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

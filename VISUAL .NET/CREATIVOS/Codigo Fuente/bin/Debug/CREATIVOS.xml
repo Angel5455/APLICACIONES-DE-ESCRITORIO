@@ -1,0 +1,868 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CREATIVOS
+</name>
+</assembly>
+<members>
+<member name="T:CREATIVOS.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Actions_application_exit_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Another_Cellular_Phone_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Banner_design_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.bill_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Button_Delete_icon48">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.create_ticket_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.create_ticket_icon128">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.create_ticket_icon48">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.create_ticket_icon64">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.edit_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.ficdn">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Floppy_Small_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Floppy_Small_icon1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Floppy_Small_icon2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Floppy_Small_icon3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Hopstarter_Sleek_Xp_Basic_Close">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Impresora_icon2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Inventory_maintenance_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.LAP_STUDIO_LOGO_SIMPLE2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.logo_claro">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.logo_la">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.MEDIDAS">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.money_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.money_icon48">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.money_wallet_icon48">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.new_file_icon96">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Oxygen_Icons_org_Oxygen_Actions_application_exit">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Padlock_Locked">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Padlock_Opened">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Padlock_Opened1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Padlock_Opened2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Pages_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Picture1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Preppy_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Printer_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Printer_icon1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Recycle_Bin_Empty_icon72">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Recycle_Bin_Empty_icon96">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Save_as_icon64">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Save_as_icon72">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Sheets_icon128">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Sheets_icon24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Stock_Folder_Ash_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.tigo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.tigo_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Treetog_I_Floppy_Small">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.User_Group_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Users_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Zoom_icon16">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Zoom_icon161">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CREATIVOS.My.Resources.Resources.Zoom_icon36">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.ClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.Control_Recargas_ClaroDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.Control_Recargas_TigoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.Creditos_RecargasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.EmpleadosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.LoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.RecibosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.Recibos_PendientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.TicketsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.UsuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.validarDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.InventarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.DescripcionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.ClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.Control_Recargas_ClaroRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.Control_Recargas_TigoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.Creditos_RecargasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.EmpleadosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.LoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.RecibosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.Recibos_PendientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.TicketsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.UsuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.validarRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.InventarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.DescripcionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.ClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.Control_Recargas_ClaroRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.Control_Recargas_TigoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.Creditos_RecargasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.EmpleadosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.LoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.RecibosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.Recibos_PendientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.TicketsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.UsuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.validarRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.InventarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSet.DescripcionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.ClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.Control_Recargas_ClaroTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.Control_Recargas_TigoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.Creditos_RecargasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.EmpleadosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.LoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.RecibosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.Recibos_PendientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.TicketsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.UsuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.validarTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.InventarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.DescripcionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CREATIVOS.CREATIVOSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CREATIVOS.CREATIVOSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CREATIVOS.CREATIVOSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CREATIVOS.CREATIVOSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CREATIVOS.CREATIVOSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CREATIVOS.CREATIVOSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CREATIVOS.CREATIVOSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CREATIVOS.CREATIVOSDataSetTableAdapters.TableAdapterManager.UpdateAll(CREATIVOS.CREATIVOSDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CREATIVOS.CREATIVOSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.DetalleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.DescripcionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.EmpleadosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.InventarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.TicketsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.Control_Recargas_TigoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.Control_Recargas_ClaroDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.RecibosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.CotizacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.DescripcionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.EmpleadosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.InventarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.TicketsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.Control_Recargas_TigoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.Control_Recargas_ClaroRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.RecibosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.DetalleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.CotizacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.DescripcionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.EmpleadosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.InventarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.TicketsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.Control_Recargas_TigoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.Control_Recargas_ClaroRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.RecibosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.DetalleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOS.CotizacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CREATIVOS.Numalet">
+ <summary>
+ Convierte números en su expresión numérica a su numeral cardinal
+ </summary>
+</member>
+<member name="P:CREATIVOS.Numalet.Decimales">
+ <summary>
+ Indica la cantidad de decimales que se pasarán a entero para la conversión
+ </summary>
+ <remarks>Esta propiedad cambia al cambiar MascaraDecimal por un valor que empieze con '0'</remarks>
+</member>
+<member name="P:CREATIVOS.Numalet.CultureInfo">
+ <summary>
+ Objeto CultureInfo utilizado para convertir las cadenas de entrada en números
+ </summary>
+</member>
+<member name="P:CREATIVOS.Numalet.SeparadorDecimalSalida">
+ <summary>
+ Indica la cadena a intercalar entre la parte entera y la decimal del número
+ </summary>
+</member>
+<member name="P:CREATIVOS.Numalet.MascaraSalidaDecimal">
+ <summary>
+ Indica el formato que se le dara a la parte decimal del número
+ </summary>
+</member>
+<member name="P:CREATIVOS.Numalet.LetraCapital">
+ <summary>
+ Indica si la primera letra del resultado debe estár en mayúscula
+ </summary>
+</member>
+<member name="P:CREATIVOS.Numalet.ConvertirDecimales">
+ <summary>
+ Indica si se deben convertir los decimales a su expresión nominal
+ </summary>
+</member>
+<member name="P:CREATIVOS.Numalet.ApocoparUnoParteEntera">
+ <summary>
+ Indica si de debe cambiar "uno" por "un" en las unidades.
+ </summary>
+</member>
+<member name="P:CREATIVOS.Numalet.ApocoparUnoParteDecimal">
+ <summary>
+ Determina si se debe apococopar el "uno" en la parte decimal
+ </summary>
+ <remarks>El valor de esta propiedad cambia al setear ConvertirDecimales</remarks>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOSTableAdapters.DescripcionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOSTableAdapters.EmpleadosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOSTableAdapters.InventarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOSTableAdapters.TicketsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOSTableAdapters.Control_Recargas_TigoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOSTableAdapters.Control_Recargas_ClaroTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOSTableAdapters.RecibosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOSTableAdapters.DetalleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOSTableAdapters.CotizacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOSTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CREATIVOS.dRptCREATIVOSTableAdapters.TableAdapterManager.UpdateUpdatedRows(CREATIVOS.dRptCREATIVOS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CREATIVOS.dRptCREATIVOSTableAdapters.TableAdapterManager.UpdateInsertedRows(CREATIVOS.dRptCREATIVOS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CREATIVOS.dRptCREATIVOSTableAdapters.TableAdapterManager.UpdateDeletedRows(CREATIVOS.dRptCREATIVOS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CREATIVOS.dRptCREATIVOSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CREATIVOS.dRptCREATIVOSTableAdapters.TableAdapterManager.UpdateAll(CREATIVOS.dRptCREATIVOS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CREATIVOS.dRptCREATIVOSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
