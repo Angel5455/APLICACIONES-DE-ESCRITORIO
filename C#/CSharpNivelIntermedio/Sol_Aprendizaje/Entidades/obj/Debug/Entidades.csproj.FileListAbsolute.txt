@@ -1,0 +1,13 @@
+C:\CSharpNivelIntermedio\Sol_Aprendizaje\Entidades\bin\Debug\Entidades.dll
+C:\CSharpNivelIntermedio\Sol_Aprendizaje\Entidades\bin\Debug\Entidades.pdb
+C:\CSharpNivelIntermedio\Sol_Aprendizaje\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\CSharpNivelIntermedio\Sol_Aprendizaje\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\CSharpNivelIntermedio\Sol_Aprendizaje\Entidades\obj\Debug\Entidades.dll
+C:\CSharpNivelIntermedio\Sol_Aprendizaje\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ARPAZ\Downloads\CSharpNivelIntermedio\CSharpNivelIntermedio\Sol_Aprendizaje\Entidades\bin\Debug\Entidades.dll
+C:\Users\ARPAZ\Downloads\CSharpNivelIntermedio\CSharpNivelIntermedio\Sol_Aprendizaje\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ARPAZ\Downloads\CSharpNivelIntermedio\CSharpNivelIntermedio\Sol_Aprendizaje\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\ARPAZ\Downloads\CSharpNivelIntermedio\CSharpNivelIntermedio\Sol_Aprendizaje\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ARPAZ\Downloads\CSharpNivelIntermedio\CSharpNivelIntermedio\Sol_Aprendizaje\Entidades\obj\Debug\Entidades.dll
+C:\Users\ARPAZ\Downloads\CSharpNivelIntermedio\CSharpNivelIntermedio\Sol_Aprendizaje\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ARPAZ\Downloads\CSharpNivelIntermedio\CSharpNivelIntermedio\Sol_Aprendizaje\Entidades\bin\Debug\Entidades.dll.config

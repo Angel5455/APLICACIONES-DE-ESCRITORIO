@@ -1,0 +1,31 @@
+C:\Users\ANGEL\AppData\Local\Temporary Projects\Oficialia\bin\Debug\Oficialia.exe
+C:\Users\ANGEL\AppData\Local\Temporary Projects\Oficialia\bin\Debug\Oficialia.pdb
+C:\Users\ANGEL\AppData\Local\Temporary Projects\Oficialia\bin\Debug\Oficialia.xml
+C:\Users\ANGEL\AppData\Local\Temporary Projects\Oficialia\obj\Debug\Oficialia.Form1.resources
+C:\Users\ANGEL\AppData\Local\Temporary Projects\Oficialia\obj\Debug\Oficialia.Resources.resources
+C:\Users\ANGEL\AppData\Local\Temporary Projects\Oficialia\obj\Debug\Oficialia.vbproj.GenerateResource.Cache
+C:\Users\ANGEL\AppData\Local\Temporary Projects\Oficialia\obj\Debug\Oficialia.exe
+C:\Users\ANGEL\AppData\Local\Temporary Projects\Oficialia\obj\Debug\Oficialia.xml
+C:\Users\ANGEL\AppData\Local\Temporary Projects\Oficialia\obj\Debug\Oficialia.pdb
+C:\Users\ANGEL\AppData\Local\Temporary Projects\Oficialia\obj\Debug\Oficialia.F_Contraseña.resources
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.exe
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.xml
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.pdb
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\bin\Debug\Oficialia.exe
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\bin\Debug\Oficialia.pdb
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\bin\Debug\Oficialia.xml
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.F_Contraseña.resources
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.Resources.resources
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.vbproj.GenerateResource.Cache
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\bin\Debug\Oficialia.exe.config
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.F_Progreso.resources
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.F_Menu.resources
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.F_Fondo.resources
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.F_Solicitud.resources
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.F_Modificar.resources
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.F_Busquedas.resources
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.F_MenuListados.resources
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.F_BD.resources
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.vbprojResolveAssemblyReference.cache
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.R_General.resources
+C:\Users\ANGEL\Documents\Visual Studio 2012\Projects\Oficialia\Oficialia\obj\Debug\Oficialia.F_ListadosFecha.resources

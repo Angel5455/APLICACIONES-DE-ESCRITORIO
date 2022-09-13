@@ -1,0 +1,673 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D90078B6-4D80-4040-A29A-97FE23AE8A30}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sistema_Clinico.Form1</StartupObject>
+    <RootNamespace>Sistema_Clinico</RootNamespace>
+    <AssemblyName>Sistema_Clinico</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Sistema_Clinico.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Sistema_Clinico.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>LogoLCL.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Downloads\Design Dashboard Modern\Design Dashboard Modern\BUNIFU UI\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="GoEmail">
+      <HintPath>..\..\SISTEMA DE GRADUACION\IHCAFE\bin\Debug\GoEmail.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataClasses1.designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Ajustes\F_Backup.Designer.vb">
+      <DependentUpon>F_Backup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Ajustes\F_Backup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Buscar_Examen\F_BuscarExamen.Designer.vb">
+      <DependentUpon>F_BuscarExamen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Buscar_Examen\F_BuscarExamen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\F_Informacion.Designer.vb">
+      <DependentUpon>F_Informacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\F_Informacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\CrysDDrogas.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysDDrogas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\CrysDrogas.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysDrogas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\E_Drogas.Designer.vb">
+      <DependentUpon>E_Drogas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\E_Drogas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\F_Drogas.Designer.vb">
+      <DependentUpon>F_Drogas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\F_Drogas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\I_Drogas.Designer.vb">
+      <DependentUpon>I_Drogas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\I_Drogas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\O_Drogas.Designer.vb">
+      <DependentUpon>O_Drogas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\O_Drogas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\R_Drogas.Designer.vb">
+      <DependentUpon>R_Drogas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\R_Drogas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\CTOG\CrysCTOG.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysCTOG.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\CTOG\F_CTOG.Designer.vb">
+      <DependentUpon>F_CTOG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\CTOG\F_CTOG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\CTOG\O_CTOG.Designer.vb">
+      <DependentUpon>O_CTOG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\CTOG\O_CTOG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Embarazo_Orina\CrysEmbarazoO.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysEmbarazoO.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Embarazo_Orina\F_PEmbarazoO.Designer.vb">
+      <DependentUpon>F_PEmbarazoO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Embarazo_Orina\F_PEmbarazoO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Embarazo_Sangre\CrysEmbarazoS.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysEmbarazoS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Embarazo_Sangre\F_EmbarazoS.Designer.vb">
+      <DependentUpon>F_EmbarazoS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Embarazo_Sangre\F_EmbarazoS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\FSP\CrysFSP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysFSP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Hematologia\CrysHema.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysHema.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Orina\CrysOrina.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysOrina.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Orina\F_Orina.Designer.vb">
+      <DependentUpon>F_Orina.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Orina\F_Orina.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Heces\CrysHeces.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysHeces.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Heces\F_Heces.Designer.vb">
+      <DependentUpon>F_Heces.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Heces\F_Heces.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Hematologia\CrysHematologia.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysHematologia.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Hematologia\F_Hematologia.Designer.vb">
+      <DependentUpon>F_Hematologia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Hematologia\F_Hematologia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Hematologia\O_Hematologia.Designer.vb">
+      <DependentUpon>O_Hematologia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Hematologia\O_Hematologia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\HPilory_Heces\CrysPiloryH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysPiloryH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\HPilory_Heces\F_PiloryH.Designer.vb">
+      <DependentUpon>F_PiloryH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\HPilory_Heces\F_PiloryH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\HPilory_Sangre\CrysPiloryS.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysPiloryS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\HPilory_Sangre\F_PiloryS.Designer.vb">
+      <DependentUpon>F_PiloryS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\HPilory_Sangre\F_PiloryS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Moco_Fecal\CrysCitologia.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysCitologia.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Moco_Fecal\CrysMocoFecal.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysMocoFecal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Moco_Fecal\F_MocoFecal.Designer.vb">
+      <DependentUpon>F_MocoFecal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Moco_Fecal\F_MocoFecal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\FSP\F_FSP.Designer.vb">
+      <DependentUpon>F_FSP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\FSP\F_FSP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Prueba_Especiales\CrysPEspeciales.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysPEspeciales.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Prueba_Especiales\F_PEspeciales.Designer.vb">
+      <DependentUpon>F_PEspeciales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Prueba_Especiales\F_PEspeciales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Prueba_Especiales\O_Especiales.Designer.vb">
+      <DependentUpon>O_Especiales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Prueba_Especiales\O_Especiales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Quimica_Sanguinea\CrysQuimica.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrysQuimica.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Quimica_Sanguinea\F_Quimica.Designer.vb">
+      <DependentUpon>F_Quimica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Quimica_Sanguinea\F_Quimica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Quimica_Sanguinea\O_Quimica.Designer.vb">
+      <DependentUpon>O_Quimica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\Examenes\Quimica_Sanguinea\O_Quimica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\F_Informes.Designer.vb">
+      <DependentUpon>F_Informes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\F_Informes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\F_Laboratorio.Designer.vb">
+      <DependentUpon>F_Laboratorio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\F_Laboratorio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\R_Reportes.Designer.vb">
+      <DependentUpon>R_Reportes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Laboratorio\R_Reportes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Login\F_Login.Designer.vb">
+      <DependentUpon>F_Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Login\F_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Login\F_Recuperar.Designer.vb">
+      <DependentUpon>F_Recuperar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Login\F_Recuperar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Pacientes\F_AgregarPacientes.Designer.vb">
+      <DependentUpon>F_AgregarPacientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Pacientes\F_AgregarPacientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Pacientes\F_BuscarPaciente.Designer.vb">
+      <DependentUpon>F_BuscarPaciente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Pacientes\F_BuscarPaciente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Pacientes\F_Pacientes2.Designer.vb">
+      <DependentUpon>F_Pacientes2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Pacientes\F_Pacientes2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Pacientes\F_Pacientes.Designer.vb">
+      <DependentUpon>F_Pacientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Pacientes\F_Pacientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_Imprimir.Designer.vb">
+      <DependentUpon>F_Imprimir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_Imprimir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logica\CConexion.vb" />
+    <Compile Include="Logica\Laboratorio\DCTOG.vb" />
+    <Compile Include="Logica\Laboratorio\DDrogas.vb" />
+    <Compile Include="Logica\Laboratorio\DEmbarazoS.vb" />
+    <Compile Include="Logica\Laboratorio\DEspeciales.vb" />
+    <Compile Include="Logica\Laboratorio\DFSP.vb" />
+    <Compile Include="Logica\Laboratorio\DHeces.vb" />
+    <Compile Include="Logica\Laboratorio\DHematologia.vb" />
+    <Compile Include="Logica\Laboratorio\DMoco.vb" />
+    <Compile Include="Logica\Laboratorio\DOrina.vb" />
+    <Compile Include="Logica\Laboratorio\DPEmbarazoO.vb" />
+    <Compile Include="Logica\Laboratorio\DPiloryH.vb" />
+    <Compile Include="Logica\Laboratorio\DPiloryS.vb" />
+    <Compile Include="Logica\Laboratorio\DQuimica.vb" />
+    <Compile Include="Logica\Login\CDatos.vb" />
+    <Compile Include="Logica\Conexion.vb" />
+    <Compile Include="Logica\Login\Funcion.vb" />
+    <Compile Include="Logica\Login\Login.vb" />
+    <Compile Include="Logica\Login\ValidarUsuarios.vb" />
+    <Compile Include="Logica\Pacientes\ConvertImage.vb" />
+    <Compile Include="Logica\Pacientes\Datos.vb" />
+    <Compile Include="Logica\Pacientes\DPacientes.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SystemLetonaDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SystemLetonaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SystemLetonaDataSet.vb">
+      <DependentUpon>SystemLetonaDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataClasses1.dbml.layout">
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Ajustes\F_Backup.resx">
+      <DependentUpon>F_Backup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Buscar_Examen\F_BuscarExamen.resx">
+      <DependentUpon>F_BuscarExamen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\F_Informacion.resx">
+      <DependentUpon>F_Informacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\CrysDDrogas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysDDrogas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\CrysDrogas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysDrogas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\E_Drogas.resx">
+      <DependentUpon>E_Drogas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\F_Drogas.resx">
+      <DependentUpon>F_Drogas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\I_Drogas.resx">
+      <DependentUpon>I_Drogas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\O_Drogas.resx">
+      <DependentUpon>O_Drogas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Abuso_Drogas\R_Drogas.resx">
+      <DependentUpon>R_Drogas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\CTOG\CrysCTOG.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysCTOG.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\CTOG\F_CTOG.resx">
+      <DependentUpon>F_CTOG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\CTOG\O_CTOG.resx">
+      <DependentUpon>O_CTOG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Embarazo_Orina\CrysEmbarazoO.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysEmbarazoO.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Embarazo_Orina\F_PEmbarazoO.resx">
+      <DependentUpon>F_PEmbarazoO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Embarazo_Sangre\CrysEmbarazoS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysEmbarazoS.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Embarazo_Sangre\F_EmbarazoS.resx">
+      <DependentUpon>F_EmbarazoS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\FSP\CrysFSP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysFSP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Hematologia\CrysHema.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysHema.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Orina\CrysOrina.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysOrina.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Orina\F_Orina.resx">
+      <DependentUpon>F_Orina.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Heces\CrysHeces.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysHeces.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Heces\F_Heces.resx">
+      <DependentUpon>F_Heces.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Hematologia\CrysHematologia.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysHematologia.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Hematologia\F_Hematologia.resx">
+      <DependentUpon>F_Hematologia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Hematologia\O_Hematologia.resx">
+      <DependentUpon>O_Hematologia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\HPilory_Heces\CrysPiloryH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysPiloryH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\HPilory_Heces\F_PiloryH.resx">
+      <DependentUpon>F_PiloryH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\HPilory_Sangre\CrysPiloryS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysPiloryS.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\HPilory_Sangre\F_PiloryS.resx">
+      <DependentUpon>F_PiloryS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Moco_Fecal\CrysCitologia.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysCitologia.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Moco_Fecal\CrysMocoFecal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysMocoFecal.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Moco_Fecal\F_MocoFecal.resx">
+      <DependentUpon>F_MocoFecal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\FSP\F_FSP.resx">
+      <DependentUpon>F_FSP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Prueba_Especiales\CrysPEspeciales.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysPEspeciales.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Prueba_Especiales\F_PEspeciales.resx">
+      <DependentUpon>F_PEspeciales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Prueba_Especiales\O_Especiales.resx">
+      <DependentUpon>O_Especiales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Quimica_Sanguinea\CrysQuimica.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrysQuimica.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Quimica_Sanguinea\F_Quimica.resx">
+      <DependentUpon>F_Quimica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\Examenes\Quimica_Sanguinea\O_Quimica.resx">
+      <DependentUpon>O_Quimica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\F_Informes.resx">
+      <DependentUpon>F_Informes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\F_Laboratorio.resx">
+      <DependentUpon>F_Laboratorio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Laboratorio\R_Reportes.resx">
+      <DependentUpon>R_Reportes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Login\F_Login.resx">
+      <DependentUpon>F_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Login\F_Recuperar.resx">
+      <DependentUpon>F_Recuperar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Pacientes\F_AgregarPacientes.resx">
+      <DependentUpon>F_AgregarPacientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Pacientes\F_BuscarPaciente.resx">
+      <DependentUpon>F_BuscarPaciente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Pacientes\F_Pacientes2.resx">
+      <DependentUpon>F_Pacientes2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Pacientes\F_Pacientes.resx">
+      <DependentUpon>F_Pacientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_Imprimir.resx">
+      <DependentUpon>F_Imprimir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="SystemLetonaDataSet.xsc">
+      <DependentUpon>SystemLetonaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SystemLetonaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SystemLetonaDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SystemLetonaDataSet.xss">
+      <DependentUpon>SystemLetonaDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataClasses1.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses1.designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\documentos-png-3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LogoLCL.ico" />
+    <Content Include="Logo.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

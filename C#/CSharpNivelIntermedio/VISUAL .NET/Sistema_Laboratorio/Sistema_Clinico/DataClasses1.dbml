@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SystemLaboratorio" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(local);Initial Catalog=SystemLaboratorio;Persist Security Info=True;User ID=sa" SettingsObjectName="Sistema_Clinico.My.MySettings" SettingsPropertyName="SystemLaboratorioConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Pacientes" Member="Pacientes">
+    <Type Name="Pacientes">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Fecha_Nacimiento" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Citologia_Moco_Fecal" Member="Citologia_Moco_Fecal">
+    <Type Name="Citologia_Moco_Fecal">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Referido" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="N_Muestra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Aspecto" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Consistencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Color" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Moco" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Sangre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="PH" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Fehling" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Guayaco" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="PMN" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="MN" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Observacion" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Embarazo_Orina" Member="Embarazo_Orina">
+    <Type Name="Embarazo_Orina">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="N_Muestra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Resultado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nota" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Embarazo_Sangre" Member="Embarazo_Sangre">
+    <Type Name="Embarazo_Sangre">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="N_Muestra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Resultado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nota" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FSP" Member="FSP">
+    <Type Name="FSP">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="N_Muestra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Serie_Roja" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Serie_Blanca" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Neutrofilos" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Eosinofilos" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Basofilos" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Monocitos" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Linfocitos" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Serie_Plaquetaria" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Heces" Member="Heces">
+    <Type Name="Heces">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="N_Muestra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Aspecto" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Consistencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Color" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Moco" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Sangre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Observacion" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Hematologia" Member="Hematologia">
+    <Type Name="Hematologia">
+      <Column Name="N_Muestra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Examen" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Resultado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Valor_Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HPilory_Heces" Member="HPilory_Heces">
+    <Type Name="HPilory_Heces">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="N_Muestra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Resultado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nota" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HPilory_Sangre" Member="HPilory_Sangre">
+    <Type Name="HPilory_Sangre">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="N_Muestra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Resultado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nota" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Quimica_Sanguinea" Member="Quimica_Sanguinea">
+    <Type Name="Quimica_Sanguinea">
+      <Column Name="N_Muestra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Examen" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Resultado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Valor_Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nota" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PEspeciales" Member="PEspeciales">
+    <Type Name="PEspeciales">
+      <Column Name="N_Muestra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Examen" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Resultado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Valor_Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nota" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CTOG" Member="CTOG">
+    <Type Name="CTOG">
+      <Column Name="N_Muestra" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Examen" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Resultados" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Valor_Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nota" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Abuso_Drogas" Member="Abuso_Drogas">
+    <Type Name="Abuso_Drogas">
+      <Column Name="N_Muestra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Examen" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Resultado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Observacion" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Orina" Member="Orina">
+    <Type Name="Orina">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Identidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Edad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Referencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="N_Muestra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Volumen" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Color" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Aspecto" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Olor" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Sedimento" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="QLeucocitos" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Cetonas" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nitritos" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Urobilinogeno" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Bilirrubina" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Proteinas" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Glucosa" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Densidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="PH" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="QEritrocitos" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="MLeucocitos" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="MEritrocitos" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C_Epiteliales" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Bacterias" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Mocos" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Cristales" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Cilindros" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Levaduras" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nota" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

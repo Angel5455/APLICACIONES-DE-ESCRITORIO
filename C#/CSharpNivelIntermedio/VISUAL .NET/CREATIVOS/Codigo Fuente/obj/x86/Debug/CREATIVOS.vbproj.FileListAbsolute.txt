@@ -1,0 +1,818 @@
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+c:\users\angel\documents\visual studio 2010\projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+C:\Users\ANGEL\Documents\Visual Studio 2010\Projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+C:\Users\ANGEL\Documents\Visual Studio 2010\Projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+C:\Users\ANGEL\Documents\Visual Studio 2010\Projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+C:\Users\ANGEL\Documents\Visual Studio 2010\Projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+C:\Users\ANGEL\Documents\Visual Studio 2010\Projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+C:\Users\ANGEL\Documents\Visual Studio 2010\Projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+C:\Users\ANGEL\Documents\Visual Studio 2010\Projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+C:\Users\ANGEL\Documents\Visual Studio 2010\Projects\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets2.resources
+G:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+G:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+G:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+G:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets2.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+G:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets2.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+C:\Users\Leonel\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets2.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+C:\Users\Leonel\Desktop\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets2.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+C:\Users\Leonel\Desktop\TODO\LAP_CREATIVOS\varios\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets2.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Empleados.resources
+C:\Users\AKATSUKI\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarE.resources
+F:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+F:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+F:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+F:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarE.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Empleados.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets2.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+F:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+E:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+E:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+E:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+E:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarE.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Empleados.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets2.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+E:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarE.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Empleados.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Clientes.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlRecargas.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCliente.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCredito.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlCreditos.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralR.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CreditosR.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Abono.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Comprar.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreT.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Control_Recargas_Claro.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreC.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Codigo.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_EdicionC.resources
+C:\Users\LapTiger\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralC.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+C:\NVIDIA\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+C:\NVIDIA\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+C:\NVIDIA\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreC.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreT.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CreditosR.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralC.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralR.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Control_Recargas_Claro.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Abono.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCliente.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCredito.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Clientes.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Codigo.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Comprar.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlCreditos.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlRecargas.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_EdicionC.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarE.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Empleados.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+C:\NVIDIA\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Banners.resources
+C:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+C:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+C:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+C:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Banners.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreC.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreT.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CreditosR.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralC.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralR.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Control_Recargas_Claro.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Abono.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCliente.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCredito.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Clientes.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Buscar.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Codigo.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Comprar.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlCreditos.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlRecargas.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Edicion.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_EdicionC.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarE.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Empleados.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Recibo.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Recibo.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarRecibo.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Imprimir.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Anombre.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Concepto.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_MenuRecibo.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarPendientes.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Banners.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreC.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreT.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CreditosR.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralC.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralR.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Control_Recargas_Claro.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Abono.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCliente.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCredito.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Clientes.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Buscar.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Codigo.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Comprar.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlCreditos.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlRecargas.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Edicion.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_EdicionC.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Anombre.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarPendientes.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarRecibo.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Concepto.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Imprimir.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_MenuRecibo.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Recibo.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Recibo.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarE.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Empleados.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+C:\Users\ANGEL\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad2.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Banners.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreC.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreT.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CreditosR.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralC.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralR.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Control_Recargas_Claro.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Abono.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCliente.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCredito.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Clientes.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Buscar.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Codigo.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Comprar.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlCreditos.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlRecargas.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Edicion.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_EdicionC.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Anombre.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarPendientes.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarRecibo.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad2.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Concepto.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Imprimir.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_MenuRecibo.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Recibo.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Recibo.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarE.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Empleados.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_PreciosMateriales.resources
+C:\Users\LAPCREATIVOS\Desktop\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_PreciosDiseños.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_PreciosDiseños.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_PreciosMateriales.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad2.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarI.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cotizaciones.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Cotizaciones.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CotGeneral.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCotizacion.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Deduccciones.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets2.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Factura.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.frmImprimir.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Prestamos.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_AnularTicket.resources
+C:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Opciones.resources
+H:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+H:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.exe
+H:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.pdb
+H:\CREATIVOS\CREATIVOS\bin\Debug\CREATIVOS.xml
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Banners.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_PreciosDiseños.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_PreciosMateriales.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCotizacion.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cotizaciones.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CotGeneral.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Cotizaciones.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Factura.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.frmImprimir.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreC.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreT.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CreditosR.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralC.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralR.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Control_Recargas_Claro.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Abono.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCliente.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCredito.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Clientes.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Buscar.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Codigo.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Comprar.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlCreditos.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlRecargas.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Edicion.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_EdicionC.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Anombre.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarPendientes.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarRecibo.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad2.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Concepto.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Imprimir.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_MenuRecibo.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Recibo.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Recibo.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_AnularTicket.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Opciones.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Prestamos.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets2.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarE.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarI.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Deduccciones.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Empleados.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+H:\CREATIVOS\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+C:\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+C:\CREATIVOS\bin\Debug\CREATIVOS.exe
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojResolveAssemblyReference.cache
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Banners.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_PreciosDiseños.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_PreciosMateriales.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCotizacion.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cotizaciones.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CotGeneral.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Cotizaciones.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.Factura.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.frmImprimir.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreC.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreT.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CreditosR.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralC.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralR.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Control_Recargas_Claro.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Abono.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCliente.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCredito.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Clientes.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Buscar.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Codigo.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Comprar.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlCreditos.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlRecargas.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Edicion.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_EdicionC.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Anombre.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarPendientes.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarRecibo.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad2.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Concepto.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Imprimir.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_MenuRecibo.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Recibo.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Recibo.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_AnularTicket.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Opciones.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Prestamos.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets2.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarE.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarI.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Deduccciones.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Empleados.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+C:\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.Cache
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CREATIVOS.exe.config
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CREATIVOS.exe
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CREATIVOS.pdb
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CREATIVOS.xml
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\FlashControlV71.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\bin\Debug\stdole.dll
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.vbprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Banners.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_PreciosDiseños.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_PreciosMateriales.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCotizacion.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cotizaciones.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CotGeneral.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Cotizaciones.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.Factura.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.frmImprimir.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreC.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreT.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CreditosR.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralC.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralR.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Control_Recargas_Claro.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Abono.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCliente.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCredito.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Clientes.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Buscar.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Codigo.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Comprar.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlCreditos.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlRecargas.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Edicion.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_EdicionC.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Anombre.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarPendientes.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarRecibo.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad2.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Concepto.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Imprimir.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_MenuRecibo.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Recibo.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Recibo.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_AnularTicket.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Opciones.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Prestamos.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets2.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarE.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarI.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Deduccciones.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Empleados.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.cache
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.CopyComplete
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+C:\Users\ANGEL\Desktop\Elaboracion de Sistemas\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.AssemblyReference.cache
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Banners.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_PreciosDiseños.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_PreciosMateriales.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCotizacion.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cotizaciones.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CotGeneral.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Cotizaciones.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.Factura.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.frmImprimir.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreC.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CierreT.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.R_CreditosR.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralC.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.R_GeneralR.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Control_Recargas_Claro.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Abono.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCliente.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarCredito.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Clientes.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Buscar.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Codigo.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Comprar.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlCreditos.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ControlRecargas.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Edicion.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_EdicionC.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Anombre.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarPendientes.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarRecibo.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Cantidad2.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Concepto.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Imprimir.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_MenuRecibo.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Recibo.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Recibo.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_AnularTicket.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Opciones.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Prestamos.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets2.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarE.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarI.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Deduccciones.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Empleados.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Menu.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.Resources.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.R_General.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.cache
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.vbproj.CoreCompileInputs.cache
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.exe
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.xml
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\obj\x86\Debug\CREATIVOS.pdb
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.vbproj.AssemblyReference.cache
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Banners.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_PreciosDiseños.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_PreciosMateriales.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_BuscarCotizacion.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Cotizaciones.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.R_CotGeneral.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.R_Cotizaciones.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.Factura.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.frmImprimir.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.R_CierreC.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.R_CierreT.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.R_CreditosR.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.R_GeneralC.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.R_GeneralR.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Control_Recargas_Claro.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Abono.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_BuscarCliente.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_BuscarCredito.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Clientes.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Buscar.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Codigo.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Comprar.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_ControlCreditos.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_ControlRecargas.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Edicion.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_EdicionC.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Anombre.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_BuscarPendientes.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_BuscarRecibo.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Cantidad.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Cantidad2.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Concepto.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Imprimir.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_MenuRecibo.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Recibo.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.R_Recibo.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_AnularTicket.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Opciones.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Prestamos.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.R_Tickets2.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_BuscarE.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_BuscarI.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Deduccciones.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.R_Empleados.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.R_Tickets.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Menu.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_BuscarTicket.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_ConsultaEmpleados.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Contraseña.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Datagrid.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Descripcion.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Eliminar.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Empleados.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Inventario.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Tickets.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.F_Usuarios.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.Resources.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.R_Consulta.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.R_General.resources
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.vbproj.GenerateResource.cache
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.vbproj.CoreCompileInputs.cache
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.exe
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.xml
+D:\ARCHIVOS\PORTAFOLIOS\APLICACIONES DE ESCRITORIO\VISUAL .NET\CREATIVOS\Codigo Fuente\obj\x86\Debug\CREATIVOS.pdb
