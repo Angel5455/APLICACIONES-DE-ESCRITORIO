@@ -1,3 +1,0 @@
-adios
-Hola desde Java
-adios
